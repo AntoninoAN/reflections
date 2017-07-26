@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+It creates the .git file, where it will store all commits and messages needed for running GIT!
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+Gives you the control to restring which files will be part of the commit and give you the changes to order your logic for every commit.

@@ -1,0 +1,3 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+The most important is to check the integrity of the logic on the code, seeing the differences between both files makes
+understand the reasons of those changes and trying to correct which bugs you may find.
